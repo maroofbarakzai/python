@@ -28,6 +28,19 @@ b = 5
 m = 0.5*a*b
 print("m=",m)
 
+a=10
+b=14.002543
+print(a>=b)
 
+a=234
+b=122
+c=0.12234
+print(a/c>b)
+
+
+a=31
+b=14
+c=2.98
+print(a*c>b)
 
 
