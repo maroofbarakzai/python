@@ -27,8 +27,7 @@ a = 12
 b = 5
 m = 0.5*a*b
 print("m=",m)
-def add(x: int, y: int) -> int:
-    return x + y
+
 
 
 
